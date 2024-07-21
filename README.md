@@ -61,7 +61,3 @@ The dataset contains financial information about loans, including:
 - **Recommendation:**
   - The Logistic Regression model is recommended due to its high accuracy and reliable performance across both classes. The model performs well in predicting healthy loans and also maintains a reasonable ability to identify high-risk loans.
 
-If you need to improve the model further, consider exploring additional algorithms or techniques such as:
-- **Cross-validation** for better generalization.
-- **Feature engineering** to enhance model performance.
-- **Other classification algorithms** (e.g., Random Forest, Gradient Boosting) for comparison.
